@@ -1,6 +1,6 @@
 # 🍳 Recipe Builder & Cooking Session App
 
-. This is a React + Redux Toolkit web application lets users create, manage, and simulate cooking recipes — including per-step timers, cooking progress, pause/resume functionality, and a global mini-player.  
+This is a React + Redux Toolkit web application lets users create, manage, and simulate cooking recipes — including per-step timers, cooking progress, pause/resume functionality, and a global mini-player.  
 All recipe data is persisted locally using localStorage, ensuring smooth, backend-free operation.
 
 
