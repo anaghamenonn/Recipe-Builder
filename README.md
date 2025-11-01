@@ -20,6 +20,43 @@ Users can:
 - Track overall and per-step progress in real time.
 - Pause, resume, and stop cooking sessions seamlessly.
 
+## 🧰 Tech Stack
+
+| Category               | Tools                 |
+| ---------------------- | --------------------- |
+| **Frontend Framework** | React 18 + TypeScript |
+| **State Management**   | Redux Toolkit         |
+| **Routing**            | React Router v6       |
+| **UI Library**         | MUI v5                |
+| **Styling**            | MUI + CSS Modules     |
+| **Storage**            | Browser LocalStorage  |
+| **Deployment**         | Vercel                |
+| **Build Tool**         | Vite                  |
+
+## 🖥️ Deployment
+
+This project was deployed using Vercel for quick CI/CD and instant hosting.
+
+Live URL:
+👉 https://recipe-builder-ovk5y01lx-anagha-menons-projects.vercel.app/
+
+To run locally:
+
+# 1. Clone repository
+```
+git clone https://github.com/anaghamenonn/Recipe-Builder.git
+cd recipe-builder
+```
+
+# 2. Install dependencies
+```
+npm install
+```
+
+# 3. Start development server
+```
+npm run dev
+```
 
 ## ✨ Features
 
